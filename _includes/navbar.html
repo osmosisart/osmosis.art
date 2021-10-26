@@ -23,11 +23,19 @@
         <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}" href="{% if page.layout == 'default' %}{{site.baseurl}}/#{% else %}{{site.baseurl}}/{% endif %}">HOME</a>
         <a class="navbar-item" href="{{site.baseurl}}/#about">MANIFESTO</a>
         <a class="navbar-item" href="{{site.baseurl}}/#contact">SOCIAL</a>
-        <a class="navbar-item" href="{{sitepage.url | absolute_url}}/collections">COLLECTIONS</a>
-      </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            COLLECTIONS
+          </a>
+          <div class="navbar-dropdown has-background-black is-left">
+            <a href="the-afghan-collection" class="navbar-item has-text-grey-light ">
+              The Afghan Collection
+            </a>
+          </div>
+        </div>
 
+      </div>
     </div>
-  </div>
 </nav>
 <!-- Bulma Navbar JS -->
 <script>
