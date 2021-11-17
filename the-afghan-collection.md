@@ -78,3 +78,54 @@ US left wing media decided to depict Taliban as 'playful kids' with a kind soul 
 ![image info](assets/images/drone-strike.jpg) ![image info](assets/images/drone-strike-origin.resized.png)
 
 After Isis took responsibility for the explosion in Kabul airport, US wanted a payback. The 'payback' resulted in 10 civilian casualties, [ 7 of which were kids.](https://www.nytimes.com/2021/09/10/world/asia/us-air-strike-drone-kabul-afghanistan-isis.html). No correlation to terrorist organization was found. We tried to depict Jannah, the Islamic paradise, as accurate as possible.
+<br />
+
+### Happy Pinata
+
+![image info](assets/images/pinata.resized.jpeg) ![image info](assets/images/taliban-chopper.resized.png)
+
+
+One of the original pictures published to the media was that of a man hanging from a chopper. What was later revealed was that the man was trying to install a flag. Nevertheless the image made an impression.
+
+<br />
+
+### The Onion
+![image info](assets/images/onion-rescue-final.resized.jpg)
+
+This piece is dedicated to all those who were left behind. Those who were promised a safe life if things turned ugly. Those who were betrayed by the political leadership. Those who were forced to select who will be free and who will stay behind.
+
+<br />
+
+### Girl with flower
+
+![image info](assets/images/girl-flower-final.resized.resized.jpg)
+
+Image speaks for itself
+
+<br />
+
+
+### Biden in Heaven
+![image info](assets/images/biden-heaven-colors.jpg)
+
+More or less this is how things ended up for the unfortunate ones.
+
+<br />
+### Biden's Justice
+
+![image info](assets/images/biden-justice-colors.resized.jpg)
+
+One of the things that I despise in this president is that he always emphasizes the deaths of all the American soldiers and he omits to mention the sacrifice of all the Afghans who fought for the freedom of their country or died tragically as casualties.
+<br />
+### Drawing in an alternate reality
+
+![image info](assets/images/Drawing in an alternate reality.jpeg) ![image info](assets/images/painting-over.jpg)
+
+On the right a store owner paints his store front, so that a woman figure is not visible anymore. What if things were polar opposite, what if the Taliban were kicked out of power and people were free to draw a woman figure once again?
+
+<br />
+
+### Peace studio
+![image info](assets/images/peace-studio-colors-v2.resized.resized.jpg) ![image info](assets/images/peace-studio.resized.png)
+
+One of the most published scenes in the media was that of the Taliban entering the "Peace Studio" and proclaiming that they will bring peace and liberty to the Afghan people.
